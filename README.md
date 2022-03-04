@@ -19,13 +19,17 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@pravisharodrigo7/what-is-gathered-about-you-by-every-browser-eecbb398fb54
+https://medium.com/@pravisharodrigo7/exploiting-windows-2008-server-by-eternal-blue-vulnerability-to-perform-data-breach-attack-using-913e609914f
+https://medium.com/@pravisharodrigo7/database-vulnerabilities-f5143d5aca91
+https://medium.com/@pravisharodrigo7/cognitive-and-cyber-warfare-281cc6b730a7
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pravisharodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravisharodrigo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pravisha rodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravisha rodrigo" height="30" width="40" /></a>
-<a href="https://medium.com/@pravisharodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pravisharodrigo" height="30" width="40" /></a>
+<a href="https://medium.com/@pravisharodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pravisharodrigo7" height="30" width="40" /></a>
 <a href="/https://medium.com/@pravisharodrigo7/cognitive-and-cyber-warfare-281cc6b730a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@pravisharodrigo7/cognitive-and-cyber-warfare-281cc6b730a7" height="30" width="40" /></a>
 </p>
 
