@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm pravisha rodrigo</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm pravisha rodrigo</h1>
 <h3 align="center">I am a student at the Sri Lanka Institute of Information Technology, where I am pursuing a degree in information technology with a focus on cyber security.</h3>
 
-
+<img align='center' src="https://user-images.githubusercontent.com/75088987/156892308-36a1c2d4-91d2-40a6-9939-fd37386b6462.gif  " width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravisharodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="pravisharodrigo" /> </p>
 
